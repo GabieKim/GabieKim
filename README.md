@@ -3,7 +3,8 @@
 <!--
 **GabieKim/GabieKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🌱 I’m currently learning C, C++
-- 📫 How to reach me : rumisonic@gmail.com
-- 💁‍♀️ <a href="https://www.16personalities.com/enfp-personality">ENFP</a> personality
-- ⚡ Fun fact : Big Fan of the ❣ emoji
+- 🎮 Creating projects with **Unreal Engine**  
+- 🏨 Exploring opportunities in the **hospitality industry** (hotels are my thing ✨)  
+- 💁‍♀️ [ISTP](https://www.16personalities.com/istp-personality) – practical & curious problem-solver  
+- ⚡ Fun fact: I’m a big fan of the ❣ emoji  
+- 📫 Reach me at: **rumisonic@gmail.com** 
